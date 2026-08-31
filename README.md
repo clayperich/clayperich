@@ -24,10 +24,3 @@
   <span style="font-size: 1.2rem; margin: 0 10px;">🛠️ Cheat Engine</span>
   <span style="font-size: 1.2rem; margin: 0 10px;">⚙️ x64dbg</span>
 </div>
-
-<h3 align="center">My playlist</h3>
-<div align="center">
-  <a href="https://soundcloud.com/clayperich/likes" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-  </a>
-</div>
