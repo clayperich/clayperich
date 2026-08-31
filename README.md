@@ -17,33 +17,22 @@
 </p>
 
 <h3 align="center">RE Tools</h3>
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://img.icons8.com/color/48/000000/ida-pro.png" height="30" alt="IDA Pro" style="vertical-align:middle;" />
-        <span>IDA Pro</span>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.icons8.com/color/48/000000/cheat-engine.png" height="30" alt="Cheat Engine" style="vertical-align:middle;" />
-        <span>Cheat Engine</span>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.icons8.com/color/48/000000/x64dbg.png" height="30" alt="x64dbg" style="vertical-align:middle;" />
-        <span>x64dbg</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://icons8.com" height="25" alt="IDA Pro" style="vertical-align: middle; padding-bottom: 4px;" /> <span>IDA Pro</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icons8.com" height="25" alt="Cheat Engine" style="vertical-align: middle; padding-bottom: 4px;" /> <span>Cheat Engine</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icons8.com" height="25" alt="x64dbg" style="vertical-align: middle; padding-bottom: 4px;" /> <span>x64dbg</span>
+</p>
 
 <h3 align="center">my playlist</h3>
 <div align="center">
-  <a href="https://soundcloud.com/clayperich/likes" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  <a href="https://soundcloud.com" target="_blank">
+    <img src="https://shields.io" alt="SoundCloud" />
   </a>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=clayperich&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://vercel.app" alt="GitHub stats" />
 </div>
