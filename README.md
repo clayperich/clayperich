@@ -3,42 +3,37 @@
 </div>
 
 <h3 align="center">Languages</h3>
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+    <img src="https://skillicons.dev" alt="Languages" />
   </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="assembly logo" />
-  </a>
-</div>
+</p>
 
 <h3 align="center">Editors & IDEs</h3>
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+    <img src="https://skillicons.dev" alt="Editors & IDEs" />
   </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
-  </a>
-</div>
+</p>
 
 <h3 align="center">RE Tools</h3>
 <div align="center">
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/ida-pro.png" height="40" alt="IDA Pro" style="vertical-align:middle;" /> IDA Pro &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/cheat-engine.png" height="40" alt="Cheat Engine" style="vertical-align:middle;" /> Cheat Engine &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/x64dbg.png" height="40" alt="x64dbg" style="vertical-align:middle;" /> x64dbg
-  </p>
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://img.icons8.com/color/48/000000/ida-pro.png" height="30" alt="IDA Pro" style="vertical-align:middle;" />
+        <span>IDA Pro</span>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://img.icons8.com/color/48/000000/cheat-engine.png" height="30" alt="Cheat Engine" style="vertical-align:middle;" />
+        <span>Cheat Engine</span>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://img.icons8.com/color/48/000000/x64dbg.png" height="30" alt="x64dbg" style="vertical-align:middle;" />
+        <span>x64dbg</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="center">my playlist</h3>
