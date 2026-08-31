@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://shields.io" alt="Visual Studio" />
   <img src="https://shields.io" alt="CLion" />
+  <img src="https://shields.io" alt="Neovim" />
   <img src="https://shields.io" alt="Neovide" />
 </p>
 
