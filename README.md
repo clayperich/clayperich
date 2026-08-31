@@ -5,40 +5,38 @@
 <h3 align="center">Languages</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   </a>
   <a><img width="12" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   </a>
   <a><img width="12" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="assembly logo" />
+    <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="Assembly" />
   </a>
 </div>
 
 <h3 align="center">Editors & IDEs</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
   </a>
   <a><img width="12" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
+    <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim / Neovide" />
   </a>
   <a><img width="12" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
+    <img src="https://skillicons.dev/icons?i=clion" height="40" alt="CLion" />
   </a>
 </div>
 
 <h3 align="center">Reverse Engineering Tools</h3>
 <div align="center">
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/ida-pro.png" height="40" alt="IDA Pro" style="vertical-align:middle;" /> IDA Pro &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/cheat-engine.png" height="40" alt="Cheat Engine" style="vertical-align:middle;" /> Cheat Engine &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/x64dbg.png" height="40" alt="x64dbg" style="vertical-align:middle;" /> x64dbg
-  </p>
+  <span style="font-size: 1.2rem; margin: 0 10px;">🔧 IDA Pro</span>
+  <span style="font-size: 1.2rem; margin: 0 10px;">🛠️ Cheat Engine</span>
+  <span style="font-size: 1.2rem; margin: 0 10px;">⚙️ x64dbg</span>
 </div>
 
 <h3 align="center">🎧 My playlist</h3>
