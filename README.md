@@ -4,32 +4,20 @@
 
 <h3 align="center">Languages</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="Assembly" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=assembly" height="40" alt="Assembly" />
 </div>
 
 <h3 align="center">Editors & IDEs</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim / Neovide" />
-  </a>
-  <a><img width="12" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clion" height="40" alt="CLion" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim / Neovide" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="CLion" />
 </div>
 
 <h3 align="center">RE Tools</h3>
@@ -39,9 +27,9 @@
   <span style="font-size: 1.2rem; margin: 0 10px;">⚙️ x64dbg</span>
 </div>
 
-<h3 align="center">🎧 My playlist</h3>
+<h3 align="center">My playlist</h3>
 <div align="center">
-  <a href="https://soundcloud.com/clayperich/likes" target="_blank">
+  <a href="https://soundcloud.com/clayperich/likes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
 </div>
