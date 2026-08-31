@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🐉 claype / C++ reverse engineer</h1>
+  <h1>claype / C++ reverse engineer</h1>
 </div>
 
 <h3 align="center">Languages</h3>
@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<h3 align="center">Reverse Engineering Tools</h3>
+<h3 align="center">RE Tools</h3>
 <div align="center">
   <span style="font-size: 1.2rem; margin: 0 10px;">🔧 IDA Pro</span>
   <span style="font-size: 1.2rem; margin: 0 10px;">🛠️ Cheat Engine</span>
@@ -44,9 +44,4 @@
   <a href="https://soundcloud.com/clayperich/likes" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
   </a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=clayperich&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
 </div>
