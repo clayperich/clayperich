@@ -20,7 +20,7 @@
 
 <h3 align="center">RE Tools</h3>
 <div align="center">
-  <span style="font-size: 1.2rem; margin: 0 10px;">IDA Pro</span>
-  <span style="font-size: 1.2rem; margin: 0 10px;">Cheat Engine</span>
+  <span style="font-size: 1.2rem; margin: 0 10px;">IDA Pro |</span>
+  <span style="font-size: 1.2rem; margin: 0 10px;">Cheat Engine |</span>
   <span style="font-size: 1.2rem; margin: 0 10px;">x64dbg</span>
 </div>
