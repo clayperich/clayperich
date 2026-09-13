@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>claype / c++ reverse engineer</h1>
+  <h1>claype (￣、￣)</h1>
 </div>
 
 <h3 align="center">languages</h3>
@@ -16,11 +16,4 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim / Neovide" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=clion" height="40" alt="CLion" />
-</div>
-
-<h3 align="center">RE Tools</h3>
-<div align="center">
-  <span style="font-size: 1.2rem; margin: 0 10px;">IDA Pro |</span>
-  <span style="font-size: 1.2rem; margin: 0 10px;">Cheat Engine |</span>
-  <span style="font-size: 1.2rem; margin: 0 10px;">x64dbg</span>
 </div>
